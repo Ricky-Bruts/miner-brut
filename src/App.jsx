@@ -280,7 +280,7 @@ export default function App() {
     </summary>
     <div className="px-4 pb-4 pt-0 text-[10px] text-white/70 space-y-2 border-t border-white/5">
       <p>Klaim <b className="text-yellow-500">100 BRUT / 24 Jam</b> per dompet.</p>
-      <p><b className="text-white underline italic">Halving:</b> Hadiah mining akan dipotong 50% setiap kali suplai baru mencapai kelipatan 5.000 BRUT. Ini mencegah inflasi berlebih di masa depan.</p>
+      <p><b className="text-white underline italic">Halving:</b> Hadiah mining akan dipotong 50% setiap kali suplai baru mencapai kelipatan 500.000 BRUT. Ini mencegah inflasi berlebih di masa depan.</p>
       <a href="https://github.com/Ricky-Bruts/ricky-brut-contracts/blob/main/WHITEPAPER.md" target="_blank" className="text-blue-400 block pt-1">→ Whitepaper</a>
     </div>
   </details>
