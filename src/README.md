@@ -1,8 +1,8 @@
 # 💎 RICKY BRUT ($BRUT) - QUANTUM MINING PROTOCOL 💎
 
-![Banner](https://raw.githubusercontent.com/TG-techn/token-asset/refs/heads/main/brut-benner.jpeg)
-![Logo](https://raw.githubusercontent.com/TG-techn/token-asset/refs/heads/main/brut-logo.svg)
-![Logo-32](https://raw.githubusercontent.com/TG-techn/token-asset/refs/heads/main/logo-32.png)
+![Banner](https://raw.githubusercontent.com/Ricky-Bruts/ricky-brut-contracts/refs/heads/main/assets/brut-banner.jpeg)
+![Img](https://raw.githubusercontent.com/Ricky-Bruts/ricky-brut-contracts/refs/heads/main/assets/brut-image.jpg)
+![Logo-32](https://raw.githubusercontent.com/Ricky-Bruts/ricky-brut-contracts/refs/heads/main/assets/logo-32.png)
 
 **Ricky Brut ($BRUT)** adalah ekosistem DeFi revolusioner di jaringan **BNB Smart Chain** yang menggabungkan mekanisme *Daily Mining*, *Yield Staking*, dan *Smart Deflationary Tax*. 
 
@@ -13,7 +13,7 @@
 *   **🛠️ Quantum Mining Hub**: Tambang 100 BRUT setiap 24 jam langsung dari dashboard dengan satu klik.
 *   **🔒 receptor Staking**: Kunci BRUT Anda dan dapatkan imbal hasil pasif sebesar **10% APR**.
 *   **👥 Affiliate System**: Ajak rekan Anda dan dapatkan bonus instan **20 BRUT** setiap kali mereka menambang.
-*   **📉 Halving Mechanism**: Hadiah mining akan berkurang setengah secara otomatis setiap 5.000 supply untuk menjaga kelangkaan.
+*   **📉 Halving Mechanism**: Hadiah mining akan berkurang setengah secara otomatis setiap 500.000 supply untuk menjaga kelangkaan.
 *   **🔥 Burn & Tax**: Setiap transaksi dikenakan pajak **0.1%** untuk menjaga nilai ekosistem.
 
 ---
@@ -47,7 +47,7 @@ Kami memiliki strategi jangka panjang untuk memastikan stabilitas harga:
 | **Simbol** | BRUT |
 | **Network** | BNB Smart Chain (BSC) |
 | **Total Supply** | 21,000,000 BRUT (Max) |
-| **Alamat Kontrak** | `0x13597C6F66819a9daAB28ab97097ea5E5605561D` |
+| **Alamat Kontrak** | `0x0B942B00DE0467358E0E9b4BFb5A8CE85cab42F8` |
 
 ---
 
@@ -55,7 +55,7 @@ Kami memiliki strategi jangka panjang untuk memastikan stabilitas harga:
 
 ### 1. Mekanisme Mining (Daily Extraction)
 Setiap pengguna yang memiliki alamat dompet unik dapat mengklaim **100 BRUT** setiap 24 jam. Algoritma kontrak kami memastikan distribusi yang adil:
-- **Halving**: Hadiah mining akan dipotong 50% setiap kali suplai baru mencapai kelipatan 5.000 BRUT. Ini mencegah inflasi berlebih di masa depan.
+- **Halving**: Hadiah mining akan dipotong 50% setiap kali suplai baru mencapai kelipatan 500.000 BRUT. Ini mencegah inflasi berlebih di masa depan.
 - **Gas Fee**: Transaksi dilakukan on-chain untuk memastikan transparansi total.
 
 ### 2. Receptor Staking (Passive Yield)
