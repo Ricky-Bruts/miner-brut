@@ -1,73 +1,93 @@
-# React + TypeScript + Vite
+# 💎 RICKY BRUT ($BRUT) - QUANTUM MINING PROTOCOL 💎
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Ricky Brut ($BRUT)** adalah ekosistem DeFi revolusioner di jaringan **BNB Smart Chain** yang menggabungkan mekanisme *Daily Mining*, *Yield Staking*, dan *Smart Deflationary Tax*. 
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ⚡ FITUR UTAMA (ECOSYSTEM)
 
-## React Compiler
+*   **🛠️ Quantum Mining Hub**: Tambang 100 BRUT setiap 24 jam langsung dari dashboard dengan satu klik.
+*   **🔒 receptor Staking**: Kunci BRUT Anda dan dapatkan imbal hasil pasif sebesar **10% APR**.
+*   **👥 Affiliate System**: Ajak rekan Anda dan dapatkan bonus instan **20 BRUT** setiap kali mereka menambang.
+*   **📉 Halving Mechanism**: Hadiah mining akan berkurang setengah secara otomatis setiap 500.000 supply untuk menjaga kelangkaan.
+*   **🔥 Burn & Tax**: Setiap transaksi dikenakan pajak **0.1%** untuk menjaga nilai ekosistem.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🚀 ROADMAP: THE PATH TO PANCAKESWAP
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+Kami memiliki strategi jangka panjang untuk memastikan stabilitas harga:
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+- [x] **Q1 2026**: Kontrak Deploy & Verifikasi (BSCScan).
+- [x] **Q2 2026**: Peluncuran Dashboard Mining & Staking (Fase Akumulasi).
+- [ ] **Q4 2026**: Audit Keamanan & Pengembangan Komunitas Global.
+- [ ] **MARCH 2027**: **GRAND LAUNCHING** di PancakeSwap (Penambahan Likuiditas & Burn LP).
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+---
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+## 🛠️ CARA BERGABUNG (MINING GUIDE)
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+1.  **Hubungkan Wallet**: Gunakan MetaMask atau Trust Wallet pada jaringan **BNB Smart Chain**.
+2.  **Start Extraction**: Klik tombol **"START MINING"**. Pastikan Anda memiliki sedikit saldo BNB untuk biaya gas (Gas Fee).
+3.  **Stake & Earn**: Pindahkan saldo BRUT Anda ke **Stake Portal** untuk mendapatkan bunga otomatis.
+4.  **Share & Earn**: Gunakan link referral unik Anda untuk mendapatkan bonus tambahan.
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+---
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+## 📜 INFORMASI KONTRAK (VERIFIED)
+
+
+| Atribut | Detail |
+| :--- | :--- |
+| **Nama Token** | Ricky Brut |
+| **Simbol** | BRUT |
+| **Network** | BNB Smart Chain (BSC) |
+| **Total Supply** | 21,000,000 BRUT (Max) |
+| **Alamat Kontrak** | `0x0B942B00DE0467358E0E9b4BFb5A8CE85cab42F8` |
+
+---
+
+## 📑 WHITEPAPER RINGKAS (CORE PROTOCOL)
+
+### 1. Mekanisme Mining (Daily Extraction)
+Setiap pengguna yang memiliki alamat dompet unik dapat mengklaim **100 BRUT** setiap 24 jam. Algoritma kontrak kami memastikan distribusi yang adil:
+- **Halving**: Hadiah mining akan dipotong 50% setiap kali suplai baru mencapai kelipatan 500.000 BRUT. Ini mencegah inflasi berlebih di masa depan.
+- **Gas Fee**: Transaksi dilakukan on-chain untuk memastikan transparansi total.
+
+### 2. Receptor Staking (Passive Yield)
+Pengguna dapat mengunci token mereka ke dalam sistem untuk mendapatkan imbal hasil tahunan (**APR**) sebesar **10%**. Bunga dihitung per detik dan dapat diklaim (*Claim*) atau ditarik (*Withdraw*) kapan saja setelah dikunci.
+
+### 3. Smart Tax (Pajak Deflasi)
+Setiap transfer token BRUT (jual/beli/kirim) dikenakan pajak sebesar **0.1%**.
+- Pajak ini dikirimkan ke dompet **Owner** untuk digunakan kembali sebagai hadiah staking atau pengembangan infrastruktur ekosistem.
+
+### 4. Strategi Likuiditas (Maret 2027)
+Fase saat ini adalah **Community Accumulation**. Seluruh token yang beredar saat ini adalah hasil kerja keras komunitas melalui mining. Pada **Maret 2027**, tim pengembang akan menambahkan likuiditas sebesar **Rp1.000.000+** dan membakar (*burn*) LP Token untuk mengunci nilai pasar selamanya.
+
+---
+
+## 💻 TEKNOLOGI YANG DIGUNAKAN
+
+- **Frontend**: React.js & Vite
+- **Styling**: Tailwind CSS (Glassmorphism UI)
+- **Library**: Ethers.js v6, Lucide-React, Canvas-Confetti
+- **Smart Contract**: Solidity v0.8.20 (OpenZeppelin)
+
+---
+
+## ⚠️ DISCLAIMER
+Investasi dalam aset kripto memiliki risiko tinggi. Proyek ini saat ini dalam fase akumulasi komunitas. Penambahan likuiditas dijadwalkan pada Maret 2027. Lakukan riset mandiri (DYOR) sebelum berpartisipasi.
+
+---
+
+## ⚖️ LISENSI (LICENSE)
+
+Proyek ini dilisensikan di bawah **MIT License**. Anda bebas menggunakan, memodifikasi, dan mendistribusikan kode ini selama mencantumkan kredit kepada penulis asli.
+
+Lihat file [LICENSE](./LICENSE) untuk detail selengkapnya.
+
+---
+
+<p align="center">
+  Dibuat dengan ❤️ untuk Masa Depan DeFi • <b>RICKY BRUT TEAM © 2026</b>
+</p>
