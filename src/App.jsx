@@ -238,12 +238,12 @@ export default function App() {
 
 <div className="mt-4 flex justify-center w-full">
   <a 
-    href="https://bscscan.com/address/0x13597c6F66819a9daAB2Bab97037ea5E5605561D" 
+    href="https://bscscan.com/address/0x0B942B00DE0467358E0E9b4BFb5A8CE85cab42F8" 
     target="_blank" 
     className="px-4 py-1.5 border border-yellow-500/20 rounded-full bg-yellow-500/5 hover:bg-yellow-500/10 transition-all flex items-center gap-2 no-underline"
   >
     <span className="text-[7px] text-yellow-500/80 tracking-widest font-bold">
-      VIEW ON BSCSCAN: 0x1359...561D
+      VIEW ON BSCSCAN: 0x0B94...42F8
     </span>
     <div className="w-1 h-1 bg-yellow-500 rounded-full animate-pulse"></div>
   </a>
